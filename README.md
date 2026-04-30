@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي الليل ينادي
+> نار الشوق جوه فؤادي
+> تعالى بحضني وانسى العالم
+> إنتِ العشق وإنتِ مرادي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
